@@ -1,0 +1,20 @@
+s= set()
+
+n=input("enter the number:")
+s.add(int(n))
+n=input("enter the number:")
+s.add(int(n))
+n=input("enter the number:")
+s.add(int(n))   
+n=input("enter the number:")
+s.add(int(n))
+n=input("enter the number:")
+s.add(int(n))
+n=input("enter the number:")
+s.add(int(n))
+n=input("enter the number:")
+s.add(int(n))
+n=input("enter the number:")
+s.add(int(n))
+
+print(s) # it will return a set with the unique values of the list

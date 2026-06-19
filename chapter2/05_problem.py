@@ -1,0 +1,3 @@
+a=int(input("enter the value of a: ")) # This will prompt the user to enter a value and store it in the variable 'a'
+b=int(input("enter the value of b: ")) # This will prompt the user to enter a value and store it in the variable 'b'
+print("average of a and b is: ", (a+b)/2) # This will calculate the average of 'a' and 'b' and print the result. However, since 'a' and 'b' are strings, this will result in a TypeError. To fix this, we need to convert 'a' and 'b' to numbers (e.g., using int() or float()) before performing the calculation.

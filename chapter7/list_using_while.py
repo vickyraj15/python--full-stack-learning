@@ -1,0 +1,19 @@
+l=[1,"vicky",False,"python",3.14,"subham","rajkishor",True,"programming",2.71]
+
+i=0
+while(i<len(l)):
+    print(l[i])
+    i+=1
+    '''
+    output:
+    1
+    vicky
+    False
+    python
+    3.14
+    subham
+    rajkishor
+    True
+    programming
+    2.71
+    '''

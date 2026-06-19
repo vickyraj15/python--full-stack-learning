@@ -1,0 +1,2 @@
+a =input("enter the value of a: ") # This will prompt the user to enter a value and store it in the variable 'a'
+print(type(a)) # This will print the data type of variable 'a' which is a string by default

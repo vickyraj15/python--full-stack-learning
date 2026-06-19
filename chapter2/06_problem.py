@@ -1,0 +1,2 @@
+a=int(input("enter the value of a: "))
+print("square of a is: ", a*a) # This will calculate the square of 'a' and print the result. However, since 'a' is a string, this will result in a TypeError. To fix this, we need to convert 'a' to a number (e.g., using int() or float()) before performing the calculation.  
